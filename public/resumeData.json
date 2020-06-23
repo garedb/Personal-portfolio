@@ -1,57 +1,32 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Gared Barney",
+    "occupation":"Full-Stack Software Engineer",
+    "description":"I am a passion driven Full-Stack software developer that loves to see how far I can push the limits of creativity and technology.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Passionate lifelong gamer and lover of tech that wanted to push my creative side with developing code. My leadership skills and drive to always be the best in both personal and professional settings has given me the skills to overcome every obstacle I come across. Since graduating from General Assembly, I have grown my skills with Javascript, Express, Python, C++, and more, as well as continue to push my desire for learning and bettering my skills. I am a strong team member that strives to build websites and apps that others and I can enjoy, all the while building it as efficiently and user friendly as possible.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "garedbarney@gmail.com",
+    "phone": "253-249-9795",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"410 Dickson Ave",
+      "city":"Enumclaw",
+      "state":"WA",
+      "zip": "98022"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.garedbarney.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/gared-barney/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/garedb",
         "className":"fa fa-github"
       },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
-      }
     ]
   },
   "resume":{
@@ -87,11 +62,11 @@
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"80%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"C++",
+        "level":"50%"
       },
       {
         "name":"ReactJs",
@@ -99,19 +74,39 @@
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"85%"
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"85%"
       },
       {
-        "name":"VueJs",
+        "name":"Python",
         "level":"50%"
       },
       {
         "name":"MongoDB",
         "level":"80%"
+      },
+      {
+        "name":"PostgreSQL",
+        "level":"80%"
+      },
+      {
+        "name":"jQuery",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"70%"
+      },
+      {
+        "name":"Unreal Engine 4",
+        "level":"45%"
+      },
+      {
+        "name":"Phaser",
+        "level":"55%"
       }
     ]
   },
@@ -121,31 +116,24 @@
         "title":"Canadian Wanderlust",
         "category":"My Travel Blog for my post-university travels",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://garedb.github.io/Project1/"
       },
       {
         "title":"Fury Fighting Gear",
         "category":"(offline now) A fighting gear company I started",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"http://mmo-flash.herokuapp.com/"
       },
       {
         "title":"Original Thai Food",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://game-launch-client.herokuapp.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg"
       }
     ]
   },
