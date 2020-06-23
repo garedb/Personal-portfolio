@@ -1,21 +1,20 @@
 {
   "main": {
     "name":"Gared Barney",
-    "occupation":"Full-Stack Software Engineer",
+    "occupation":"(Full-Stack Software Engineer)",
     "description":"I am a passion driven Full-Stack software developer that loves to see how far I can push the limits of creativity and technology.",
     "image":"profilepic.jpg",
     "bio":"Passionate lifelong gamer and lover of tech that wanted to push my creative side with developing code. My leadership skills and drive to always be the best in both personal and professional settings has given me the skills to overcome every obstacle I come across. Since graduating from General Assembly, I have grown my skills with Javascript, Express, Python, C++, and more, as well as continue to push my desire for learning and bettering my skills. I am a strong team member that strives to build websites and apps that others and I can enjoy, all the while building it as efficiently and user friendly as possible.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Please contact me if you would like to contract me for work or have any questions",
     "email": "garedbarney@gmail.com",
     "phone": "253-249-9795",
     "address":{
-      "street":"410 Dickson Ave",
       "city":"Enumclaw",
       "state":"WA",
       "zip": "98022"
     },
     "website": "http://www.garedbarney.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"/images/GaredResume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -26,37 +25,31 @@
         "name":"github",
         "url":"https://github.com/garedb",
         "className":"fa fa-github"
-      },
+      }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"General Assembly",
+        "degree":"Software Engineering Immersive",
+        "graduated":"June 2020",
+        "description":"An intensive, twelve-week, 480+ hour software engineering immersive program teaching full-stack application development with object-oriented programming, MVC frameworks, and SQL and NoSQL database programs."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Washington Alarm",
+        "title":"Fire Inspector",
+        "years":"October 2016 - February 2020",
+        "description":"Worked with building owners and inspected commercial fire alarm and security systems to make sure they were up to code. Fixed any bugs in system, as well as replaced hardware as needed."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"NJ Roofing",
+        "title":"Roofing Lead",
+        "years":"May 2016 - October 2016",
+        "description":"Worked with company owner to design saftey procedures, bid jobs, and install new as well as repair old roofing systems."
       }
     ],
     "skills":[
@@ -113,39 +106,30 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
+        "title":"Going for Gold",
+        "category":"Small dungeon crawler created in Phaser and Javascript",
+        "image":"Going-for-gold.jpg",
         "url":"https://garedb.github.io/Project1/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://mmo-flash.herokuapp.com/"
+        "title":"MMO-Flash",
+        "category":"MMO news site with a discussion board and authorization for user access",
+        "image":"MMO-Flash.jpg",
+        "url":"https://mmo-flash.herokuapp.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
+        "title":"Game Launch",
+        "category":"Social gaming and rating site I made with 2 other developers using MERN stack",
+        "image":"Game-launch.jpg",
         "url":"https://game-launch-client.herokuapp.com/"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"As I complete more freelance work, my testimonials will go here",
+        "user":"Gared Barney"
       }
     ]
   }
