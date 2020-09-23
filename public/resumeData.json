@@ -9,9 +9,9 @@
     "email": "garedbarney@gmail.com",
     "phone": "253-249-9795",
     "address":{
-      "city":"Enumclaw",
+      "city":"Puyallup",
       "state":"WA",
-      "zip": "98022"
+      "zip": "98373"
     },
     "website": "http://www.garedbarney.com",
     "resumedownload":"/images/GaredResume.pdf",
@@ -63,7 +63,7 @@
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"CSS",
@@ -105,6 +105,12 @@
   },
   "portfolio":{
     "projects": [
+      {
+      "title":"Pig Game",
+        "category":"Simple dice rolling game for 2 players designed with JS",
+        "image":"Pig-Game.jpg",
+        "url":"https://garedb.github.io/Pig-Game/"
+      },
       {
         "title":"Going for Gold",
         "category":"Small dungeon crawler created in Phaser and Javascript",
