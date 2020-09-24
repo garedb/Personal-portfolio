@@ -58,12 +58,16 @@
         "level":"80%"
       },
       {
+        "name":"Node.js",
+        "level":"75%"
+      },
+      {
         "name":"C++",
-        "level":"50%"
+        "level":"40%"
       },
       {
         "name":"ReactJs",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"CSS",
@@ -75,11 +79,11 @@
       },
       {
         "name":"Python",
-        "level":"50%"
+        "level":"30%"
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"60%"
       },
       {
         "name":"PostgreSQL",
@@ -87,19 +91,19 @@
       },
       {
         "name":"jQuery",
-        "level":"60%"
+        "level":"50%"
       },
       {
         "name":"Javascript",
-        "level":"70%"
+        "level":"75%"
       },
       {
         "name":"Unreal Engine 4",
         "level":"45%"
       },
       {
-        "name":"Phaser",
-        "level":"55%"
+        "name":"Phaser3",
+        "level":"50%"
       }
     ]
   },
