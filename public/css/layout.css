@@ -244,10 +244,30 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #E6E8EE;
+   background: white;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+}
+
+/*.skill-logos {
+  position: center;
+  text-align: center;
+  width: 70%;
+}*/
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.flex-container > div {
+  background-color: white;
+  width: 130px;
+  margin: 15px;
+  text-align: center;
+  font-size: 30px;
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
@@ -293,7 +313,7 @@ ul#nav li.current a { color: #F06000; }
 /*	Skill Bars
 /*----------------------------------------------*/
 
-.bars {
+/*.bars {
 	width: 95%;
 	float: left;
 	padding: 0;
@@ -309,7 +329,7 @@ ul#nav li.current a { color: #F06000; }
   	background: #ccc;
   	height: 42px;
   	border-radius: 3px;
-}
+}*/
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
    color: #313131;
@@ -317,9 +337,10 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 2px;
 	font-weight: normal;
    position: relative;
-	top: -36px;
+  
+/*	top: -50px;*/
 }
-.bar-expand {
+/*.bar-expand {
    position: absolute;
    left: 0;
    top: 0;
@@ -331,7 +352,7 @@ ul#nav li.current a { color: #F06000; }
   	height: 42px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
-}
+}*/
 /*
 .git {
   	-moz-animation: git 2s ease;
