@@ -68,7 +68,7 @@ class Resume extends Component {
             <img src = "../images/html-js.png" alt = "html logo"/>
            </div>
            <div>
-            <img src = "../images/node.js_logo.svg" alt = "node logo"/>
+            <img src = "../images/Node.js_logo.png" alt = "node logo"/>
            </div>
            <div>
             <img src = "../images/react.png" alt = "react logo"/>
